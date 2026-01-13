@@ -6,11 +6,11 @@
             <div class="main-container container-fluid">
                 <!-- PAGE-HEADER -->
                 <div class="page-header">
-                    <h1 class="page-title">Formulir Izin</h1>
+                    <h1 class="page-title">Form Sample</h1>
                     <div>
                         <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="javascript:void(0)">SIKAMA</a></li>
-                            <li class="breadcrumb-item active" aria-current="page">Formulir Izin</li>
+                            <li class="breadcrumb-item"><a href="javascript:void(0)">Form</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">Form Sample</li>
                         </ol>
                     </div>	
                 </div>
